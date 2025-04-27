@@ -22,7 +22,7 @@ Application web full-stack développée avec **React.js** en frontend, **Node.js
 
 1. Cloner le dépôt :
 ```bash
-git clone [https://github.com/votre-utilisateur/nom-du-repo.git](https://github.com/saaddhm/Gestion-des-ch-ques.git)
+git clone https://github.com/saaddhm/Gestion-des-ch-ques.git
 ```
 
 2. Installer les dépendances backend :
